@@ -6,7 +6,7 @@
 
 1. *Clone the repository*:
     bash
-    [git clone https://github.com/your-username/Twitter_x.com.git](https://github.com/PramodBasavarajMenasi/Twitter_X.com.git)
+    [git clone https://github.com/PramodBasavarajMenasi/Twitter_x.com.git](https://github.com/PramodBasavarajMenasi/Twitter_X.com.git)
     
 2. *Navigate to the project folder*:
     bash
